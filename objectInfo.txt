@@ -1,0 +1,6 @@
+5
+Photo, Hunza Valley, jpeg, 43.4, 3500, 2000
+Video, break_dancing, mov, 267.0, 63, 4k
+Music, 34+35, mp3, 24.7, 173, Ariana Grande, positions
+Photo, Paris, png, 12.2, 2250, 1000
+Music, All Too Well, mp3, 51.6, 328, Taylor Swift, Red
